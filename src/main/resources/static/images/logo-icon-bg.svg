@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="481px" height="56px" viewBox="0 0 481 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>Framer Logo Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-2.18596777%" y1="11.4807417%" x2="62.0960948%" y2="98.5147863%" id="linearGradient-1">
+            <stop stop-color="#4CAF50" offset="0%"></stop>
+            <stop stop-color="#125A15" offset="66.5576626%"></stop>
+            <stop stop-color="#035606" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="488.979995 93.8991314 488.979995 299.142752 0 360.155489 0 6.63610315"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.47826087 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-4" points="489.755819 94.4015843 489.755819 299.645204 55.7472805 310.687186 55.7472805 57.512894"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.47826087 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="37.9039052%" y1="1.48521369%" x2="62.0960948%" y2="98.5147863%" id="linearGradient-6">
+            <stop stop-color="#22C4F4" offset="0%"></stop>
+            <stop stop-color="#11A9EF" offset="57.5692369%"></stop>
+            <stop stop-color="#0D87E6" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-7" points="490.606811 94.4823827 490.606811 299.726003 242.664633 385.157526 242.664633 0"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="5" dy="21" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.260869565 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Framer-Logo-Copy" transform="translate(-319.000000, 0.000000)">
+            <rect id="BG" fill="#10171D" x="0" y="0" width="800" height="600"></rect>
+            <g id="logo" transform="translate(22.000000, -147.000000)">
+                <g id="icon" transform="translate(299.000000, 0.000000)">
+                    <g id="Path-2-Copy-2" opacity="0.656949627">
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="Path-2">
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    </g>
+                    <g id="Path-2-Copy" opacity="0.683768657">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use fill="url(#linearGradient-6)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="clock" style="mix-blend-mode: overlay;" transform="translate(65.585036, 57.512894)">
+                        <path d="M34.4321438,134.934097 C34.4321438,194.259209 111.387985,232.368495 206.420702,219.971799 C301.62558,207.552644 378.753582,169.465815 378.753582,134.934097 C378.753582,100.40238 301.62558,62.3155508 206.420702,49.8963962 C111.387985,37.4996995 34.4321438,75.6089863 34.4321438,134.934097 Z M68.8642876,134.934097 C68.8642876,89.4162874 130.497825,58.9808303 206.592863,66.9219027 C282.687901,74.8629751 344.321438,105.298432 344.321438,134.934097 C344.321438,164.569763 282.687901,195.00522 206.592863,202.946292 C130.497825,210.887365 68.8642876,180.451907 68.8642876,134.934097 Z" id="Shape" fill="#FFFEFE"></path>
+                        <polygon id="Shape" points="413.185726 65.2550143 413.185726 204.613181 0 269.291598 0 0.576596382"></polygon>
+                        <polygon id="Shape" fill="#FFFEFE" points="189.376791 91.3035865 189.376791 143.6602 279.761169 166.254432 292.673222 156.479712 215.200899 137.031406 215.200899 92.9879203"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

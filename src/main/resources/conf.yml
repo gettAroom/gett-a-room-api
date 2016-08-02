@@ -1,0 +1,11 @@
+gettaroom:
+  roomStatusQueueURL: https://sqs.us-west-2.amazonaws.com/798574537122/RoomStatus
+  actionsQueueURL: https://sqs.us-west-2.amazonaws.com/798574537122/ActionQueue
+swagger:
+  resourcePackage: fedex.poc.roomer.api.resources
+
+server:
+  rootPath: /api/*
+  applicationConnectors:
+    - type: http
+      port: 9090
