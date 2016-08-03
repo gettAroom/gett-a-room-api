@@ -11,7 +11,6 @@ import java.util.List;
  * Created by tg60668 on 20/7/2016.
  */
 public class RoomRep {
-    private static final Integer DEFAULT_STEPS = 15;
     private String id;
     private String name;
     private boolean isAvailable = false;
@@ -33,7 +32,7 @@ public class RoomRep {
         RoomRep roomRep = new RoomRep();
         roomRep.setId(room.id);
         roomRep.setName(room.name);
-        roomRep.setSteps(DEFAULT_STEPS);
+        roomRep.setSteps(roomAvailabilityService.getRoomStepsMinutes(room));
         roomRep.setNextMeeting(new MeetingRep(room.nextMeeting));
         roomRep.setIsAvailable(roomAvailabilityService.isRoomAvailable(room));
         return roomRep;

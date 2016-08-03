@@ -52,11 +52,8 @@ public class RoomsResourceImpl implements RoomsResource {
 
     @Override
     public Response getRooms() {
-        Collection<Room> rooms = roomsRepository.getAll();
-        if (rooms.isEmpty()) {
-            return Response.noContent().build();
-        }
-        List<RoomRep> roomReps = rooms.stream()
+        List<RoomRep> roomReps = roomsRepository.getAll()
+                .stream()
                 .map(r -> RoomRep.fromRoom(r, roomAvailabilityService))
                 .collect(Collectors.toList());
         return Response.ok(roomReps).build();
