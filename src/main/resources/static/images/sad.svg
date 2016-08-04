@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="112px" height="112px" viewBox="0 0 112 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Sad</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="54.5258621%" id="radialGradient-1">
+            <stop stop-color="#FFDC60" offset="0%"></stop>
+            <stop stop-color="#FFE060" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emoji" transform="translate(-248.000000, -335.000000)">
+            <g id="Emojis" transform="translate(164.000000, 154.000000)">
+                <g id="Sad-+-Angry" transform="translate(84.000000, 181.000000)">
+                    <g id="Sad">
+                        <circle id="Face" fill="url(#radialGradient-1)" cx="56" cy="56" r="56"></circle>
+                        <circle id="Eye" fill="#272232" cx="32" cy="60" r="8"></circle>
+                        <circle id="Eye" fill="#272232" cx="82" cy="60" r="8"></circle>
+                        <path d="M70.2226057,87.2000824 C66.389848,83.9560586 61.4321349,82 56.0175598,82 C50.6908553,82 45.8063047,83.8930859 42,87.0431656" id="Mouth" stroke="#2B1509" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M35.3930654,44.6997561 C34.128526,44.2467629 32.7658195,44 31.3454783,44 C26.0903849,44 21.6242581,47.3779671 20,52.0809989" id="Eyebrow" stroke="#281300" stroke-width="5" stroke-linejoin="round"></path>
+                        <path d="M93.3930654,44.6997561 C92.128526,44.2467629 90.7658195,44 89.3454783,44 C84.0903849,44 79.6242581,47.3779671 78,52.0809989" id="Eyebrow" stroke="#281300" stroke-width="5" stroke-linejoin="round" transform="translate(85.696533, 48.040499) scale(-1, 1) translate(-85.696533, -48.040499) "></path>
+                        <path d="M90,112 C94.418278,112 98,108.418278 98,104 C98,99.581722 90,84 90,84 C90,84 82,99.581722 82,104 C82,108.418278 85.581722,112 90,112 Z" id="Tear" fill="#5E8EE7"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

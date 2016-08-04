@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="112px" height="112px" viewBox="0 0 112 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Funny</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="54.5258621%" id="radialGradient-1">
+            <stop stop-color="#FFDC60" offset="0%"></stop>
+            <stop stop-color="#FFE060" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emoji" transform="translate(-164.000000, -154.000000)">
+            <g id="Emojis" transform="translate(164.000000, 154.000000)">
+                <g id="Funny-+-Happy-+-Amazing">
+                    <g id="Funny">
+                        <circle id="Face" fill="url(#radialGradient-1)" cx="56" cy="56" r="56"></circle>
+                        <g id="Mouth" transform="translate(16.000000, 58.000000)">
+                            <path d="M78.8863311,1.81721305e-12 C77.3544565,20.1373431 60.5296893,36 40,36 C19.4703107,36 2.6455435,20.1373431 1.1136689,1.81776816e-12 L78.8863311,0 Z" fill="#272232"></path>
+                            <path d="M74.9674938,14.5665954 C68.5418273,27.2816422 55.3582104,36 40.1383119,36 C24.6965973,36 11.3509506,27.0256661 5.03250621,14.0081326 C15.7078812,10.1206204 27.2322823,8 39.2519808,8 C51.8352717,8 63.875728,10.3241505 74.9674938,14.5665954 Z" id="Tongue" fill="#FD4E60"></path>
+                        </g>
+                        <polyline id="Eye" stroke="#271900" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" transform="translate(83.000000, 37.000000) scale(-1, 1) translate(-83.000000, -37.000000) " points="76 30 90 37 76 44"></polyline>
+                        <polyline id="Eye" stroke="#271900" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" points="22 30 36 37 22 44"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
